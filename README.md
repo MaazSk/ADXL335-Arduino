@@ -1,2 +1,4 @@
 # ADXL335-Arduino
-This library is a work under progress
+Library to read raw values from a ADXL335 sensor 
+
+Initial level of the library
