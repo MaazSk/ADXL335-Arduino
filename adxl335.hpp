@@ -8,7 +8,6 @@ class ADXL335{
     int getRawX();
     int getRawY();
     int getRawZ();
-    // void calibrateAccelerometer();
     private:
     int _pinX;
     int _pinY;
